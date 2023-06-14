@@ -4,7 +4,6 @@ import {
   Typography,
 } from '@mui/material';
 import PropTypes from 'prop-types';
-import React from 'react';
 
 function Dropdown({ children, onChange, value }) {
   const handleChange = (e) => {

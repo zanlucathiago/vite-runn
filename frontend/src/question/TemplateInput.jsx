@@ -34,7 +34,7 @@ export default function TemplateInput({
           {model !== MODELS.DROPDOWN.value && !other && (
             <>
               <Typography>ou</Typography>
-              <Button onClick={onClickOther}>adicionar "Outro"</Button>
+              <Button onClick={onClickOther}>adicionar {"\"Outro\""}</Button>
             </>
           )}
         </TemplateOption>
