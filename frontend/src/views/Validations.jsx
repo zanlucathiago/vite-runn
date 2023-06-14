@@ -1,6 +1,5 @@
 import { Button } from '@mui/material';
 import PropTypes from 'prop-types';
-import React from 'react';
 import Validation from '../question/Validation';
 import { getNewValidation } from '../services/sectionService';
 

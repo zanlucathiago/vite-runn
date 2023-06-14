@@ -13,7 +13,7 @@ import {
   Typography,
 } from '@mui/material';
 import PropTypes from 'prop-types';
-import React, { useEffect, useState } from 'react';
+import { useEffect, useState } from 'react';
 import DsCol from '../components/DsCol';
 import DsDeleteIconButton from '../components/DsDeleteIconButton';
 import DsDescription from '../components/DsDescription';
